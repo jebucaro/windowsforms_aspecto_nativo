@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndicadorDeProgreso", "Indi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpList_EnlacesExternos", "JumpList_EnlacesExternos\JumpList_EnlacesExternos.csproj", "{2B88F21D-F9F0-45D7-81D6-B2BBD7581EB8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListView_AspectoNativo", "ListView_AspectoNativo\ListView_AspectoNativo.csproj", "{EBD30D81-7375-42C4-BD6E-F80C2D1073ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2B88F21D-F9F0-45D7-81D6-B2BBD7581EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B88F21D-F9F0-45D7-81D6-B2BBD7581EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B88F21D-F9F0-45D7-81D6-B2BBD7581EB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBD30D81-7375-42C4-BD6E-F80C2D1073ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBD30D81-7375-42C4-BD6E-F80C2D1073ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBD30D81-7375-42C4-BD6E-F80C2D1073ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBD30D81-7375-42C4-BD6E-F80C2D1073ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
