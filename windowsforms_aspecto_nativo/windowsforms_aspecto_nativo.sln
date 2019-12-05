@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListView_AspectoNativo", "L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeView_AspectoNativo", "TreeView_AspectoNativo\TreeView_AspectoNativo.csproj", "{414D822D-635A-4886-9C25-AEB8884DD2F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpList_EnlacesInternos", "JumpList_EnlacesInternos\JumpList_EnlacesInternos.csproj", "{6E7AAED6-0B28-4B04-AECA-AFCFE94E67BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{414D822D-635A-4886-9C25-AEB8884DD2F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{414D822D-635A-4886-9C25-AEB8884DD2F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{414D822D-635A-4886-9C25-AEB8884DD2F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E7AAED6-0B28-4B04-AECA-AFCFE94E67BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E7AAED6-0B28-4B04-AECA-AFCFE94E67BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E7AAED6-0B28-4B04-AECA-AFCFE94E67BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E7AAED6-0B28-4B04-AECA-AFCFE94E67BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
