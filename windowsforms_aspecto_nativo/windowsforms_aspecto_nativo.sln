@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29509.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndicadorDeProgreso", "IndicadorDeProgreso\IndicadorDeProgreso.csproj", "{E85222BD-D50F-4D32-812B-8D850CB6DFC4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpList_EnlacesExternos", "JumpList_EnlacesExternos\JumpList_EnlacesExternos.csproj", "{2B88F21D-F9F0-45D7-81D6-B2BBD7581EB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E85222BD-D50F-4D32-812B-8D850CB6DFC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E85222BD-D50F-4D32-812B-8D850CB6DFC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E85222BD-D50F-4D32-812B-8D850CB6DFC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B88F21D-F9F0-45D7-81D6-B2BBD7581EB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B88F21D-F9F0-45D7-81D6-B2BBD7581EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B88F21D-F9F0-45D7-81D6-B2BBD7581EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B88F21D-F9F0-45D7-81D6-B2BBD7581EB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
